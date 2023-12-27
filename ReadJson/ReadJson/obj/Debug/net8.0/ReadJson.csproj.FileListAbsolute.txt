@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\csharp\ReadJson\ReadJson\bin\Debug\net8.0\ReadJson.exe
+C:\Users\DELL\Desktop\csharp\ReadJson\ReadJson\bin\Debug\net8.0\ReadJson.deps.json
+C:\Users\DELL\Desktop\csharp\ReadJson\ReadJson\bin\Debug\net8.0\ReadJson.runtimeconfig.json
+C:\Users\DELL\Desktop\csharp\ReadJson\ReadJson\bin\Debug\net8.0\ReadJson.dll
+C:\Users\DELL\Desktop\csharp\ReadJson\ReadJson\bin\Debug\net8.0\ReadJson.pdb
+C:\Users\DELL\Desktop\csharp\ReadJson\ReadJson\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\csharp\ReadJson\ReadJson\obj\Debug\net8.0\ReadJson.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\csharp\ReadJson\ReadJson\obj\Debug\net8.0\ReadJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\csharp\ReadJson\ReadJson\obj\Debug\net8.0\ReadJson.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\csharp\ReadJson\ReadJson\obj\Debug\net8.0\ReadJson.AssemblyInfo.cs
+C:\Users\DELL\Desktop\csharp\ReadJson\ReadJson\obj\Debug\net8.0\ReadJson.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\csharp\ReadJson\ReadJson\obj\Debug\net8.0\ReadJson.csproj.CopyComplete
+C:\Users\DELL\Desktop\csharp\ReadJson\ReadJson\obj\Debug\net8.0\ReadJson.dll
+C:\Users\DELL\Desktop\csharp\ReadJson\ReadJson\obj\Debug\net8.0\refint\ReadJson.dll
+C:\Users\DELL\Desktop\csharp\ReadJson\ReadJson\obj\Debug\net8.0\ReadJson.pdb
+C:\Users\DELL\Desktop\csharp\ReadJson\ReadJson\obj\Debug\net8.0\ReadJson.genruntimeconfig.cache
+C:\Users\DELL\Desktop\csharp\ReadJson\ReadJson\obj\Debug\net8.0\ref\ReadJson.dll
